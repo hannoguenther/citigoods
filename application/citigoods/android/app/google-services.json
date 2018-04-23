@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "906683470583",
+    "firebase_url": "https://citigoods.firebaseio.com",
+    "project_id": "citigoods",
+    "storage_bucket": "citigoods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906683470583:android:4681b5ad026e38f1",
+        "android_client_info": {
+          "package_name": "de.citigoods.citigoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906683470583-nqolo9f0ng6krsnjecfcbvgie2clcqtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.citigoods.citigoods",
+            "certificate_hash": "01b18e7415a28ae6f77e110ee673af6f6ccec932"
+          }
+        },
+        {
+          "client_id": "906683470583-370sci2orje69s3meoqu9d18555tb01e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnwaMQ-UWKJVjiGAr_dgCLSIRya0NCTvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906683470583-5teca07alr6dfp47ipvrjl90h9u4pahr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.citigoods.citigoods"
+              }
+            },
+            {
+              "client_id": "906683470583-370sci2orje69s3meoqu9d18555tb01e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
